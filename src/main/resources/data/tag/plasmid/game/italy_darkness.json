@@ -1,0 +1,12 @@
+{
+  "type": "tag:tag",
+  "map": {
+    "id": "tag:italy"
+  },
+  "players": {
+    "min": 2,
+    "max": 100
+  },
+  "time_limit_secs": 300,
+  "darkness": true
+}

@@ -1,0 +1,11 @@
+{
+    "gameType.tag.tag": "Tag",
+    "game.tag.tag": "Tag",
+    "text.tag.bar.waiting": "Run!",
+    "text.tag.start": "Go!",
+    "text.tag.bar.ingame": "Time remaining: %s",
+    "text.tag.tagged": "You've been tagged!",
+    "text.tag.tagged.other": "%s has been tagged!",
+    "text.tag.winner": "%s has won the game!",
+    "text.tag.no_winner": "The game ended, but nobody won!"
+}

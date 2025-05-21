@@ -1,0 +1,13 @@
+{
+  "type": "tag:tag",
+  "map": {
+    "id": "tag:dust_2"
+  },
+  "players": {
+    "min": 2,
+    "max": 100
+  },
+  "time_limit_secs": 300,
+  "darkness": true,
+  "bow": true
+}

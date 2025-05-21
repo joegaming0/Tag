@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "tag",
+  "version": "${version}",
+  "name": "tag",
+  "description": "A tag minigame for Minecraft.",
+  "authors": [
+    "JoeGaming"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "io.github.joegaming0.tag.Tag"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "fabric": "*",
+    "minecraft": "1.21.4",
+    "plasmid": ">=0.6.0"
+  }
+}

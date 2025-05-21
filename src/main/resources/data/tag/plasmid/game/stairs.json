@@ -1,0 +1,15 @@
+{
+  "type": "tag:tag",
+  "map": {
+    "id": "tag:stairs"
+  },
+  "players": {
+    "min": 2,
+    "max": 100
+  },
+  "time_limit_secs": 300,
+  "snowballs": true,
+  "night_vision": true,
+  "scale": 0.1,
+  "movementMultiplier": 0.5
+}

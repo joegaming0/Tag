@@ -1,0 +1,14 @@
+{
+  "type": "tag:tag",
+  "map": {
+    "id": "tag:smol"
+  },
+  "players": {
+    "min": 2,
+    "max": 100
+  },
+  "time_limit_secs": 300,
+  "snowballs": true,
+  "scale": 0.1,
+  "movementMultiplier": 0.6
+}
