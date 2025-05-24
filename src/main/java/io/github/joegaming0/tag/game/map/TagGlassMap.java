@@ -12,7 +12,7 @@ public class TagGlassMap {
     private static final Block MAIN_BLOCK = Blocks.LIGHT_GRAY_STAINED_GLASS;
     private static final Block SWITCHING_BLOCK = Blocks.RED_STAINED_GLASS;
 
-    private static BlockBounds glassBounds;
+    private BlockBounds glassBounds;
 
     private int ticksUntilSwitch = 0;
 
